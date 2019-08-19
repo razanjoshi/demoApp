@@ -1,1 +1,1 @@
-SELECT * from xdqrs;
+SELECT * from qolbl;
